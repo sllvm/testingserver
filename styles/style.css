@@ -1,0 +1,34 @@
+html {
+  font-size: 25px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Great Vibes', cursive;
+  background-color:#A58E8E;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 26px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #A58E8E;
+  text-shadow: 3px 3px 1px black;
+}
